@@ -1,0 +1,86 @@
+div.a{
+    display: inline-flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+hr.b{
+    margin-top: 2%;
+    
+}
+ul.w{
+    text-align: center;
+    display: block;
+    font-size:20px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    list-style-type: nono;
+    padding: o;
+    width: 500px;
+    float: left;
+
+}
+a:hover{
+    background-color: blue;
+    color:red;
+}
+.active{
+    background-color: red;
+    display: block;
+    color: honeydew;
+}
+select.r{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 0, 149);
+    background-color: aqua;
+}
+
+
+div.blod{
+    border: 5px solid red;
+    background-color: plum;
+    margin: 2%;
+}
+IMG.E{
+    float: ;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+}
+details{
+    border: 2px red solid;
+    background-color: antiquewhite;
+}
+form{
+    background-color: darkorange;
+}
+div.oo{
+    background-color: blanchedalmond;
+    display: block;
+}
+ul.yy{
+    background-color: bisque;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+div.v{
+    background-color: papayawhip;
+}
+aside.bar{
+    text-align: center;
+    display: block;
+    font-size:20px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: nono;
+    padding: o;
+    width: 500px;
+    float: right;
+    color: black;
+}
